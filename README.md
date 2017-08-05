@@ -16,6 +16,3 @@ A central hub to demonstrate my projects
 ## [_Project5_](https://github.com/julianflood1/)
   Description of project  
   
-## [_Project6_](https://github.com/julianflood1/)
-  Description of project
-  
