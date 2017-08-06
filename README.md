@@ -10,9 +10,9 @@ A central hub to demonstrate my projects
 ## [_Animal Tracker_](https://github.com/julianflood1/animal-tracker)
   This project is an AngularJS oriented site which allows users to add various animals to their zoo, add different features about the animals, and be able to edit, sort, and delete the animals when they want to.
   
-## [_Project4_](https://github.com/julianflood1/)
+## [_Get Doctor/ enlightened ciitizen / green thumbs_](https://github.com/julianflood1/)
   Description of project
   
-## [_Project5_](https://github.com/julianflood1/)
+## [_BAC checker_](https://github.com/julianflood1/)
   Description of project  
   
