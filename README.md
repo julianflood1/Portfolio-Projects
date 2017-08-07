@@ -10,9 +10,9 @@ A central hub to demonstrate my projects
 ## [_Animal Tracker_](https://github.com/julianflood1/animal-tracker)
   This project is an AngularJS oriented site which allows users to add various animals to their zoo, add different features about the animals, and be able to edit, sort, and delete the animals when they want to.
   
-## [_Get Doctor/ enlightened ciitizen / green thumbs_](https://github.com/julianflood1/)
-  Description of project
+## [_Geocacher_](https://github.com/julianflood1/geocacher)
+  This project is a fun project that I made implementing angular 4. It makes API calls using Google's Geocoding API, which can help you locate a geocached location! You can add a new geocache location by either physical address or by geographical coordinates(latitude and longitude), and then also have the option to delete them as well. These are all stored in Google Firebase database, and are updated instantaneously.
   
-## [_BAC checker_](https://github.com/julianflood1/)
-  Description of project  
+## [_BAC checker_](https://github.com/julianflood1/BAC-Checker-Project)
+  This project is a blood alcohol content checker, which can keep track of how drunk somebody is. This Project was made in a group effort including two memebers specializing in C#. The more drinks that a person consumes, will be shown on a meter that we created. We also implemented features so that if you drink water or eat food, your level will decrease. This is merely a fun project, as blood alcohol content accuracy has many more factors involved.  
   
